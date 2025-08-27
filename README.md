@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Adeniyi Adeboye Ifeoluwa
 
-### A passionate developer from [Your Location]
+### A Naija Dev!!
 
 <img src="https://github.com/Deathstorm55.png" alt="Adeniyi Adeboye Ifeoluwa" width="150" height="150" style="border-radius: 50%;" />
 
