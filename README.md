@@ -60,19 +60,13 @@ Undergraduate
 
 </div>
 
-## ⚡ Fun Fact
 
-<div align="center">
-
-*I love gaming and music.*
-
-</div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deathstorm55)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ife_code)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ife_code)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349026183645, +2347040314155)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deathstorm55)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ife_code)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ife_code)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349026183645)
 
 </div>
 
@@ -128,7 +122,6 @@ Undergraduate
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thank you for visiting my profile! 😊**
 
