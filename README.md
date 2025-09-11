@@ -24,7 +24,7 @@ I’m always eager to learn, innovate, and contribute to impactful projects, bri
 
 <div align="left">
 
-- 🌱 I'm currently learning **I am learning the MERN stack and Next.js as a whole**
+- 🌱 **I am learning the MERN stack and Next.js as a whole**
 
 </div>
 
